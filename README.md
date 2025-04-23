@@ -1,3 +1,30 @@
-# GAME.-DEVELOPMENT
+# EX 2 : Bresenham‘s Line Drawing Algorithm
 
-Develop an understanding and awareness of how issues such as content, information architecture, motion, sound, design, and technology merge to form effective and compelling interactive experiences for a wide range of audiences and end users. Be familiar with various software programs.
+**AIM :**
+
+ To  implement the Bresenham’s  algorithm for line using a c coding.
+
+**ALGORITHM :**
+
+   Step 1 : Start.
+   
+   Step 2 : Initialize the graphics header files and functions.
+
+   Step 3 : Declare the required variables and functions.
+
+   Step 4 : Get the four points for drawing a line namely x1,x2,y1,y2.
+
+   Step 5 : Draw the line using the algorithm.
+
+   Step  6 : Display the output.
+
+   Step 7 : stop.
+
+**Program :**
+
+
+**Output :**
+
+
+**Result :**
+
